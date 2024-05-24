@@ -48,3 +48,52 @@ At this point, any suggestions that survive are shown to the developer in their 
 So all of this is happening like a constant stream of data, and it's occurring in less than a blink of an eye. A prompt gets initiated, it goes through the model and suggestions are generated. Then suggestions come back and are sent to the user's code editor and are then deleted. 
 
 ![Dataflow do para outbond data](img\outboundDataFlow.png)
+
+---
+---
+---
+
+# Helping GithHub Copilot help you
+
+**Context**
+
+Additional information to help GitHub Copilot generate custom suggestions.
+
+**Intent**
+
+The specific goal you have in mind when creating the prompt.
+
+**Clarity**
+
+How easy something is to understand.
+
+**Specificity**
+
+The level of detail about the task you wish to complete.
+
+# Comment driven development | Best practices using GitHubCopilot
+
+**Describe the goal**
+
+Start a file with a few lines of comments highlighting what you´re building.
+
+**Be flexible**
+
+If you don´t see what you want, rephrase the question.
+
+**Provide Examples**
+If you´re processing data, show the start and end points you expect.
+
+# Good code begets good code
+
+**Name things properly**
+
+Poorly named variables and functions don´t provide context.
+
+**Follow best practices**
+
+Suggestions will follow the example you set in your code.
+
+**Open relevant files**
+
+When building with custom frameworks, open representative examples.
