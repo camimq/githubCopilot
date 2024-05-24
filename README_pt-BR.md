@@ -1,8 +1,8 @@
-[🔃 (go-to 🇧🇷) Versão em Português](https://github.com/camimq/imigracao_canada/blob/main/README_pt-BR.md)
+[🔃 (go-to 🇺🇸) English Version](https://github.com/camimq/imigracao_canada/blob/main/README.md)
 
 # Github Copilot
 
-Repository created to test some GitHub Copilot features.
+Repositório criado para testar algumas funcionalidades / _features_ do GitHub Copilot.
 
 
 Cami Queiroz 🎙 Vamos falar!
