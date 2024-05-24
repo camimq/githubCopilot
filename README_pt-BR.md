@@ -1,4 +1,4 @@
-[🔃 (go-to 🇺🇸) English Version](https://github.com/camimq/imigracao_canada/blob/main/README.md)
+[🔃 (go-to 🇺🇸) English Version](https://github.com/camimq/githubCopilot/blob/main/README_pt-BR.md)
 
 # Github Copilot
 
